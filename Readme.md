@@ -1,4 +1,4 @@
-# Basic Raylib c template
+# <a href="raylibc.com/">Raylib</a> c template
 
 ## Clone the repo
 
