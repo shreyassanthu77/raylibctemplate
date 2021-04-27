@@ -1,4 +1,4 @@
-# <a href="raylibc.com/">Raylib</a> c template
+# <a href=https://www.raylib.com/index.html">Raylib</a> c template
 
 ## Clone the repo
 
